@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="767acac1-4943-441a-b7e0-be62a5a1244c" name="Default Changelist" comment="update 2021-02-25 11:41" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fd1a6fdaba265570af9934e236a31582fc38158e" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1ov6aOZFS2bAhJdcRU1b0lJAoNP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Agoin_Projects\AgoinDemo\Tools" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Agoin_Projects\AgoinDemo" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="767acac1-4943-441a-b7e0-be62a5a1244c" name="Default Changelist" comment="" />
+      <created>1614154779498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614154779498</updated>
+      <workItem from="1614154780630" duration="66000" />
+      <workItem from="1614154869843" duration="584000" />
+      <workItem from="1614155462723" duration="519000" />
+      <workItem from="1614155991689" duration="460000" />
+      <workItem from="1614158274154" duration="881000" />
+      <workItem from="1614217463260" duration="4314000" />
+    </task>
+    <task id="LOCAL-00001" summary="update 2021-02-24 17:19">
+      <created>1614158363310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614158363310</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update 2021-02-24 17:21">
+      <created>1614158518644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614158518644</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update 2021-02-25 10:05">
+      <created>1614218773049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614218773049</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update 2021-02-25 11:25">
+      <created>1614223523225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614223523225</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update 2021-02-25 11:26">
+      <created>1614223595326</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614223595326</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update 2021-02-25 11:35">
+      <created>1614224153217</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614224153217</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update 2021-02-25 11:41">
+      <created>1614224481323</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614224481323</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update 2021-02-24 17:19" />
+    <MESSAGE value="update 2021-02-24 17:21" />
+    <MESSAGE value="update 2021-02-25 10:05" />
+    <MESSAGE value="update 2021-02-25 11:25" />
+    <MESSAGE value="update 2021-02-25 11:26" />
+    <MESSAGE value="update 2021-02-25 11:35" />
+    <MESSAGE value="update 2021-02-25 11:41" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 2021-02-25 11:41" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1614158430812">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614158430812" />
+    <state x="664" y="327" key="Github.ShareDialog" timestamp="1614223836569">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="664" y="327" key="Github.ShareDialog/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614223836569" />
+    <state x="301" y="74" key="SettingsEditor" timestamp="1614158319606">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="74" key="SettingsEditor/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614158319606" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1614224392909">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614224392909" />
+    <state x="522" y="164" key="VcsDiffUtil.ChangesDialog" timestamp="1614224413074">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="522" y="164" key="VcsDiffUtil.ChangesDialog/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614224413074" />
+    <state x="584" y="216" key="git4idea.merge.GitPullDialog" timestamp="1614223913880">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="584" y="216" key="git4idea.merge.GitPullDialog/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614223913880" />
+  </component>
+</project>
