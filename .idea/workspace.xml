@@ -11,12 +11,14 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="767acac1-4943-441a-b7e0-be62a5a1244c" name="Default Changelist" comment="update 2021-02-25 11:41" />
+    <list default="true" id="767acac1-4943-441a-b7e0-be62a5a1244c" name="Default Changelist" comment="update 2021-02-25 11:48">
+      <change afterPath="$PROJECT_DIR$/FormatePlaces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +61,35 @@
       <recent name="D:\Agoin_Projects\AgoinDemo" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="FormatePlaces" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JL_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FormatePlaces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FormatePlaces" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -74,7 +105,8 @@
       <workItem from="1614155462723" duration="519000" />
       <workItem from="1614155991689" duration="460000" />
       <workItem from="1614158274154" duration="881000" />
-      <workItem from="1614217463260" duration="4314000" />
+      <workItem from="1614217463260" duration="8427000" />
+      <workItem from="1614306225753" duration="11567000" />
     </task>
     <task id="LOCAL-00001" summary="update 2021-02-24 17:19">
       <created>1614158363310</created>
@@ -125,7 +157,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614224481323</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update 2021-02-25 11:44">
+      <created>1614224675583</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614224675583</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update 2021-02-25 11:45">
+      <created>1614224755248</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614224755248</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update 2021-02-25 11:48">
+      <created>1614224940452</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614224940452</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,19 +189,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="dev" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -163,7 +204,10 @@
     <MESSAGE value="update 2021-02-25 11:26" />
     <MESSAGE value="update 2021-02-25 11:35" />
     <MESSAGE value="update 2021-02-25 11:41" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 2021-02-25 11:41" />
+    <MESSAGE value="update 2021-02-25 11:44" />
+    <MESSAGE value="update 2021-02-25 11:45" />
+    <MESSAGE value="update 2021-02-25 11:48" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 2021-02-25 11:48" />
   </component>
   <component name="WindowStateProjectService">
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1614158430812">
@@ -174,14 +218,46 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="664" y="327" key="Github.ShareDialog/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614223836569" />
+    <state width="1557" height="334" key="GridCell.Tab.0.bottom" timestamp="1614322018194">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="334" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614322018194" />
+    <state width="1557" height="334" key="GridCell.Tab.0.center" timestamp="1614322018194">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="334" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614322018194" />
+    <state width="1557" height="334" key="GridCell.Tab.0.left" timestamp="1614322018194">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="334" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614322018194" />
+    <state width="1557" height="334" key="GridCell.Tab.0.right" timestamp="1614322018194">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="334" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614322018194" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1614318827071">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614318827071" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1614318827071">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614318827071" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1614318827071">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614318827071" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1614318827071">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614318827071" />
     <state x="301" y="74" key="SettingsEditor" timestamp="1614158319606">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="74" key="SettingsEditor/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614158319606" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1614224392909">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1614224953685">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614224392909" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614224953685" />
     <state x="522" y="164" key="VcsDiffUtil.ChangesDialog" timestamp="1614224413074">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -190,5 +266,8 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="584" y="216" key="git4idea.merge.GitPullDialog/0.0.1600.860/-1920.-115.1920.1160@0.0.1600.860" timestamp="1614223913880" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AgoinDemo$FormatePlaces.coverage" NAME="FormatePlaces Coverage Results" MODIFIED="1614321164762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
